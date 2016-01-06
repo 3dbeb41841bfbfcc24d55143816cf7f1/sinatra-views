@@ -156,7 +156,7 @@ Forms with a GET action are useful for search forms.
 
 **Question**: What's the benefit of using GET requests with search forms?
 
-#[Next: Sinatra REST](rest.md)
+#[Next: Sinatra REST](https://github.com/ATL-WDI-Curriculum/sinatra-rest/blob/master/README.md)
 
 ## You do: Pair Programming Bot
 
